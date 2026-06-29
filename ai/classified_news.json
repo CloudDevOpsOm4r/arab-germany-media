@@ -6,7 +6,10 @@
     "summary": "Eine Hitzewelle wie die jetzige mit diesen extrem hohen Temperaturen wäre laut ARD-Klimaexpertin Claudia Reiser vor 50 Jahren noch gar nicht möglich gewesen. Nicht nur in Deutschland wurden Rekordtemperaturen erreicht.",
     "source": "tagesschau.de - Die Nachrichten der ARD",
     "collected_at": "2026-06-29T10:02:40.333994+00:00",
-    "score": 45
+    "score": 45,
+    "category": "weather_health_warning",
+    "arabic_category": "تحذير طقس وصحة",
+    "video_type": "quick_warning"
   },
   {
     "title": "Besserer Hitzeschutz: Nach der Hitzewelle kommt die Diskussion",
@@ -15,7 +18,10 @@
     "summary": "Nach einer Woche mit Hitzerekorden wird es heute erst mal kühler. Die politische Debatte um besseren Hitzeschutz in der Zukunft hat aber gerade erst begonnen. Von Birthe Sönnichsen.",
     "source": "tagesschau.de - Die Nachrichten der ARD",
     "collected_at": "2026-06-29T10:02:40.333869+00:00",
-    "score": 30
+    "score": 30,
+    "category": "weather_health_warning",
+    "arabic_category": "تحذير طقس وصحة",
+    "video_type": "quick_warning"
   },
   {
     "title": "Grüne fordern Sofortprogramm für Klimaanlagen",
@@ -24,6 +30,9 @@
     "summary": "Die Grünen drängen auf einen Aktionsplan gegen Hitze. Fraktionschefin Dröge warnt vor mehr lebensgefährlichen Hitzetagen. Helfen sollen auch Klimaanlagen in öffentlichen Einrichtungen. Von Dietrich Karl Mäurer.",
     "source": "tagesschau.de - Die Nachrichten der ARD",
     "collected_at": "2026-06-29T10:02:40.333976+00:00",
-    "score": 30
+    "score": 30,
+    "category": "weather_health_warning",
+    "arabic_category": "تحذير طقس وصحة",
+    "video_type": "quick_warning"
   }
 ]

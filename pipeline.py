@@ -4,6 +4,7 @@ import sys
 steps = [
     ("Collect news", "sources/rss_collector.py"),
     ("Score news", "ai/news_scorer.py"),
+    ("Classify news", "ai/news_classifier.py"),
 ]
 
 for name, script in steps:
