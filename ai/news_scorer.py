@@ -62,7 +62,7 @@ def calculate_score(item: dict) -> int:
     return max(0, min(score, 100))
 
 
-with open("news.json", "r", encoding="utf-8") as f:
+with open("sources/news.json", "r", encoding="utf-8") as f:
     news = json.load(f)
 
 scored_news = []
@@ -76,7 +76,7 @@ for item in news:
 
 scored_news = sorted(scored_news, key=lambda x: x["score"], reverse=True)
 
-with open("scored_news.json", "w", encoding="utf-8") as f:
+with open("ai/scored_news.json", "w", encoding="utf-8") as f:
     json.dump(scored_news, f, ensure_ascii=False, indent=2)
 
 print(f"Total News: {len(news)}")

@@ -6,7 +6,7 @@ from rich.console import Console
 console = Console()
 
 RSS_URL = "https://www.tagesschau.de/xml/rss2"
-OUTPUT_FILE = "news.json"
+OUTPUT_FILE = "sources/news.json"
 
 
 def main():
