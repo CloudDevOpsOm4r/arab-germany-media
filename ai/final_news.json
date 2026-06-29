@@ -1,0 +1,90 @@
+[
+  {
+    "publish": true,
+    "importance": 60,
+    "category": "weather",
+    "audience": [
+      "Arabs living in Germany",
+      "families",
+      "students",
+      "workers"
+    ],
+    "urgency": 0,
+    "content_type": "facebook_post",
+    "title_ar": "تحذير من موجة حر غير مسبوقة في ألمانيا",
+    "summary_ar": "تسجل ألمانيا درجات حرارة قياسية لم يسبق لها مثيل، حيث أكدت خبيرة المناخ أن مثل هذه الموجات لم تكن ممكنة قبل 50 عامًا.",
+    "script_ar": "تعيش ألمانيا موجة حر غير مسبوقة، حيث تسجل درجات حرارة قياسية. وفقًا لخبيرة المناخ، فإن هذه الموجات لم تكن ممكنة قبل 50 عامًا. من المهم أن نكون حذرين ونتخذ الاحتياطات اللازمة لحماية أنفسنا وعائلاتنا من الحرارة الشديدة. تأكد من شرب الماء بكثرة وتجنب الخروج في أوقات الذروة. تابعونا لمزيد من المعلومات حول كيفية التعامل مع هذه الظروف.",
+    "hashtags": [
+      "#موجة_حر",
+      "#ألمانيا",
+      "#حماية_الصحة",
+      "#درجات_حرارة_قياسية"
+    ],
+    "needs_human_review": true,
+    "reason": "موجة الحر تؤثر على الحياة اليومية وتحتاج إلى تحذير السكان.",
+    "original_title": "Hitze-Liveblog: ++ Klimaexpertin: \"So eine Hitzewelle vor 50 Jahren nicht möglich\" ++",
+    "source": "tagesschau.de - Die Nachrichten der ARD",
+    "link": "https://www.tagesschau.de/newsticker/liveblog-hitze-sonntag-100.html",
+    "published": "Sun, 28 Jun 2026 21:51:47 +0200"
+  },
+  {
+    "publish": true,
+    "importance": 60,
+    "category": "weather",
+    "audience": [
+      "Arabs living in Germany",
+      "refugees",
+      "students",
+      "workers",
+      "families",
+      "new immigrants"
+    ],
+    "urgency": 0,
+    "content_type": "facebook_post",
+    "title_ar": "نقاش حول حماية أفضل من الحرارة بعد موجة الحر",
+    "summary_ar": "بعد أسبوع من تسجيل درجات حرارة قياسية، بدأت النقاشات السياسية حول تحسين وسائل الحماية من الحرارة في المستقبل.",
+    "script_ar": "بعد أسبوع شهد درجات حرارة قياسية، نشهد اليوم انخفاضًا في درجات الحرارة. لكن النقاش حول كيفية تحسين الحماية من الحرارة في المستقبل قد بدأ للتو. من المهم أن نكون على دراية بهذه النقاشات، حيث يمكن أن تؤثر على حياتنا اليومية في ألمانيا. تابعونا لمزيد من المعلومات حول هذا الموضوع.",
+    "hashtags": [
+      "#موجة_حر",
+      "#حماية_الحرارة",
+      "#ألمانيا",
+      "#الطقس",
+      "#حياة_يومية"
+    ],
+    "needs_human_review": true,
+    "reason": "يتعلق الأمر بحماية الناس من موجات الحر، وهو موضوع يؤثر على الحياة اليومية.",
+    "original_title": "Besserer Hitzeschutz: Nach der Hitzewelle kommt die Diskussion",
+    "source": "tagesschau.de - Die Nachrichten der ARD",
+    "link": "https://www.tagesschau.de/inland/hitze-bilanz-100.html",
+    "published": "Mon, 29 Jun 2026 10:10:44 +0200"
+  },
+  {
+    "publish": true,
+    "importance": 60,
+    "category": "weather",
+    "audience": [
+      "families",
+      "workers",
+      "students",
+      "new immigrants"
+    ],
+    "urgency": 1,
+    "content_type": "facebook_post",
+    "title_ar": "دعوة عاجلة لتوفير أجهزة تكييف لمواجهة موجات الحرارة",
+    "summary_ar": "تدعو حزب الخضر في ألمانيا إلى خطة عمل لمواجهة ارتفاع درجات الحرارة، مع تحذيرات من زيادة الأيام الحارة الخطيرة. يشمل الاقتراح توفير أجهزة تكييف في المرافق العامة.",
+    "script_ar": "في ظل ارتفاع درجات الحرارة المتزايد، دعا حزب الخضر في ألمانيا إلى وضع خطة عمل عاجلة لمواجهة هذه الظاهرة. رئيسة الكتلة النيابية، دروج، حذرت من زيادة الأيام الحارة التي قد تشكل خطرًا على الحياة. من بين الاقتراحات توفير أجهزة تكييف في المرافق العامة لحماية المواطنين. تابعونا لمزيد من المعلومات حول كيفية تأثير هذه الخطط على حياتكم اليومية.",
+    "hashtags": [
+      "#ألمانيا",
+      "#حرارة",
+      "#تكييف",
+      "#حماية_المواطنين",
+      "#حزب_الخضر"
+    ],
+    "needs_human_review": true,
+    "reason": "يتعلق الأمر بموجات الحرارة وتأثيرها على الحياة اليومية، مما يجعله مهمًا للجمهور.",
+    "original_title": "Grüne fordern Sofortprogramm für Klimaanlagen",
+    "source": "tagesschau.de - Die Nachrichten der ARD",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-hitze-klima-100.html",
+    "published": "Sun, 28 Jun 2026 11:42:31 +0200"
+  }
+]
