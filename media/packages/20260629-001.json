@@ -11,12 +11,93 @@
   },
   "video": {
     "title": "تحذير من موجة حر غير مسبوقة في ألمانيا",
-    "hook": "تحذير من موجة حر غير مسبوقة في ألمانيا",
-    "script": "تعيش ألمانيا موجة حر غير مسبوقة، حيث تسجل درجات حرارة قياسية. وفقًا لخبيرة المناخ، فإن هذه الموجات لم تكن ممكنة قبل 50 عامًا. من المهم أن نكون حذرين ونتخذ الاحتياطات اللازمة لحماية أنفسنا وعائلاتنا من الحرارة الشديدة. تأكد من شرب الماء بكثرة وتجنب الخروج في أوقات الذروة. تابعونا لمزيد من المعلومات حول كيفية التعامل مع هذه الظروف.",
+    "hook": "درجات حرارة قياسية تضرب ألمانيا.",
+    "script": "تسجل ألمانيا درجات حرارة قياسية. هذه الموجة غير مسبوقة. أكدت خبيرة المناخ أن مثل هذه الموجات لم تكن ممكنة قبل خمسين عامًا. الوضع الحالي يتطلب الحذر. يجب على الجميع اتخاذ الاحتياطات اللازمة.",
     "duration": 55,
     "voice": "Hijazi",
     "music": "soft_news",
-    "style": "news"
+    "style": "news",
+    "subtitle_lines": [
+      "تحذير من موجة حر غير مسبوقة في ألمانيا.",
+      "درجات حرارة قياسية تضرب البلاد.",
+      "خبيرة المناخ تؤكد: هذه الموجات لم تكن ممكنة قبل خمسين عامًا.",
+      "الوضع الحالي يتطلب الحذر.",
+      "يجب اتخاذ الاحتياطات اللازمة."
+    ],
+    "storyboard": [
+      {
+        "scene": 1,
+        "duration": 6,
+        "visual_description": "Aerial view of a sunny city in Germany with clear skies.",
+        "pexels_query": "Germany city sunny",
+        "subtitle": "تحذير من موجة حر غير مسبوقة في ألمانيا",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_01.mp4"
+      },
+      {
+        "scene": 2,
+        "duration": 6,
+        "visual_description": "People walking in a park, some sitting on benches enjoying the sun.",
+        "pexels_query": "people in park summer",
+        "subtitle": "درجات حرارة قياسية لم يسبق لها مثيل",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_02.mp4"
+      },
+      {
+        "scene": 3,
+        "duration": 6,
+        "visual_description": "Close-up of a thermometer showing high temperatures.",
+        "pexels_query": "thermometer high temperature",
+        "subtitle": "درجات حرارة قياسية",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_03.mp4"
+      },
+      {
+        "scene": 4,
+        "duration": 6,
+        "visual_description": "A climate expert giving a presentation in a conference room.",
+        "pexels_query": "climate expert presentation",
+        "subtitle": "خبيرة المناخ تحذر",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_04.mp4"
+      },
+      {
+        "scene": 5,
+        "duration": 6,
+        "visual_description": "Families enjoying ice cream on a hot day.",
+        "pexels_query": "families eating ice cream summer",
+        "subtitle": "استمتاع العائلات بالطقس الحار",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_05.mp4"
+      },
+      {
+        "scene": 6,
+        "duration": 6,
+        "visual_description": "People using public transport, looking uncomfortable due to the heat.",
+        "pexels_query": "people on public transport summer",
+        "subtitle": "تأثير الحرارة على الحياة اليومية",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_06.mp4"
+      },
+      {
+        "scene": 7,
+        "duration": 6,
+        "visual_description": "Children playing in a water fountain to cool off.",
+        "pexels_query": "children playing water fountain",
+        "subtitle": "طرق التخفيف من حرارة الصيف",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_07.mp4"
+      },
+      {
+        "scene": 8,
+        "duration": 6,
+        "visual_description": "A news anchor reporting in a studio.",
+        "pexels_query": "news anchor studio",
+        "subtitle": "تغطية مستمرة للأحداث",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_08.mp4"
+      },
+      {
+        "scene": 9,
+        "duration": 6,
+        "visual_description": "A sunset over a city skyline, indicating the end of a hot day.",
+        "pexels_query": "sunset city skyline",
+        "subtitle": "موجة الحر مستمرة",
+        "broll_file": "media\\broll\\videos\\20260629-001\\scene_09.mp4"
+      }
+    ]
   },
   "social": {
     "caption": "تسجل ألمانيا درجات حرارة قياسية لم يسبق لها مثيل، حيث أكدت خبيرة المناخ أن مثل هذه الموجات لم تكن ممكنة قبل 50 عامًا.",
@@ -28,9 +109,11 @@
     ]
   },
   "production": {
-    "voice_ready": false,
+    "voice_ready": true,
     "video_ready": false,
     "thumbnail_ready": false,
-    "published": false
+    "published": false,
+    "audio_file": "media\\audio\\20260629-001.mp3",
+    "subtitle_file": "media\\subtitles\\20260629-001.srt"
   }
 }

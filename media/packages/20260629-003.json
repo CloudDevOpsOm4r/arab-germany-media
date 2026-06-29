@@ -11,12 +11,101 @@
   },
   "video": {
     "title": "دعوة عاجلة لتوفير أجهزة تكييف لمواجهة موجات الحرارة",
-    "hook": "دعوة عاجلة لتوفير أجهزة تكييف لمواجهة موجات الحرارة",
-    "script": "في ظل ارتفاع درجات الحرارة المتزايد، دعا حزب الخضر في ألمانيا إلى وضع خطة عمل عاجلة لمواجهة هذه الظاهرة. رئيسة الكتلة النيابية، دروج، حذرت من زيادة الأيام الحارة التي قد تشكل خطرًا على الحياة. من بين الاقتراحات توفير أجهزة تكييف في المرافق العامة لحماية المواطنين. تابعونا لمزيد من المعلومات حول كيفية تأثير هذه الخطط على حياتكم اليومية.",
+    "hook": "حزب الخضر في ألمانيا يدعو إلى خطة عمل لمواجهة ارتفاع درجات الحرارة.",
+    "script": "حزب الخضر في ألمانيا يطالب بخطة عمل لمواجهة ارتفاع درجات الحرارة. يأتي ذلك مع تحذيرات من زيادة الأيام الحارة الخطيرة. الاقتراح يشمل توفير أجهزة تكييف في المرافق العامة. الهدف هو حماية المواطنين من آثار الحرارة الشديدة.",
     "duration": 55,
     "voice": "Hijazi",
     "music": "soft_news",
-    "style": "news"
+    "style": "news",
+    "subtitle_lines": [
+      "دعوة عاجلة لتوفير أجهزة تكييف لمواجهة موجات الحرارة.",
+      "حزب الخضر في ألمانيا يدعو إلى خطة عمل لمواجهة ارتفاع درجات الحرارة.",
+      "تحذيرات من زيادة الأيام الحارة الخطيرة.",
+      "الاقتراح يشمل توفير أجهزة تكييف في المرافق العامة.",
+      "الهدف هو حماية المواطنين من آثار الحرارة الشديدة."
+    ],
+    "storyboard": [
+      {
+        "scene": 1,
+        "duration": 6,
+        "visual_description": "Aerial view of a busy German city with people walking in the streets.",
+        "pexels_query": "Germany city life",
+        "subtitle": "Urgent call for action in Germany.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_01.mp4"
+      },
+      {
+        "scene": 2,
+        "duration": 6,
+        "visual_description": "Close-up of a digital thermometer showing high temperatures.",
+        "pexels_query": "high temperature thermometer",
+        "subtitle": "Rising temperatures are a growing concern.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_02.mp4"
+      },
+      {
+        "scene": 3,
+        "duration": 6,
+        "visual_description": "Footage of people sweating and fanning themselves in a public space.",
+        "pexels_query": "people hot summer",
+        "subtitle": "Increasingly hot days are becoming dangerous.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_03.mp4"
+      },
+      {
+        "scene": 4,
+        "duration": 6,
+        "visual_description": "Public building with people entering and exiting, showing the need for air conditioning.",
+        "pexels_query": "public building Germany",
+        "subtitle": "Public facilities need air conditioning.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_04.mp4"
+      },
+      {
+        "scene": 5,
+        "duration": 6,
+        "visual_description": "Footage of air conditioning units being installed in a public space.",
+        "pexels_query": "air conditioning installation",
+        "subtitle": "Proposal includes providing AC units.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_05.mp4"
+      },
+      {
+        "scene": 6,
+        "duration": 6,
+        "visual_description": "Families enjoying a cool environment inside a public facility.",
+        "pexels_query": "families in public space",
+        "subtitle": "Ensuring comfort for everyone.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_06.mp4"
+      },
+      {
+        "scene": 7,
+        "duration": 6,
+        "visual_description": "Students studying in a well-ventilated classroom.",
+        "pexels_query": "students classroom",
+        "subtitle": "Education must continue in comfortable conditions.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_07.mp4"
+      },
+      {
+        "scene": 8,
+        "duration": 6,
+        "visual_description": "Footage of workers in an office with air conditioning.",
+        "pexels_query": "office workers air conditioning",
+        "subtitle": "Workplaces need to adapt to the heat.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_08.mp4"
+      },
+      {
+        "scene": 9,
+        "duration": 6,
+        "visual_description": "A group of people discussing in a meeting room.",
+        "pexels_query": "people in meeting",
+        "subtitle": "A call for action from the Green Party.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_09.mp4"
+      },
+      {
+        "scene": 10,
+        "duration": 6,
+        "visual_description": "Closing shot of a city skyline during sunset.",
+        "pexels_query": "city skyline sunset",
+        "subtitle": "Together, we can face the heat.",
+        "broll_file": "media\\broll\\videos\\20260629-003\\scene_10.mp4"
+      }
+    ]
   },
   "social": {
     "caption": "تدعو حزب الخضر في ألمانيا إلى خطة عمل لمواجهة ارتفاع درجات الحرارة، مع تحذيرات من زيادة الأيام الحارة الخطيرة. يشمل الاقتراح توفير أجهزة تكييف في المرافق العامة.",
@@ -29,9 +118,11 @@
     ]
   },
   "production": {
-    "voice_ready": false,
+    "voice_ready": true,
     "video_ready": false,
     "thumbnail_ready": false,
-    "published": false
+    "published": false,
+    "audio_file": "media\\audio\\20260629-003.mp3",
+    "subtitle_file": "media\\subtitles\\20260629-003.srt"
   }
 }

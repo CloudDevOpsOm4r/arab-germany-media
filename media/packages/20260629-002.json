@@ -11,12 +11,95 @@
   },
   "video": {
     "title": "نقاش حول حماية أفضل من الحرارة بعد موجة الحر",
-    "hook": "نقاش حول حماية أفضل من الحرارة بعد موجة الحر",
-    "script": "بعد أسبوع شهد درجات حرارة قياسية، نشهد اليوم انخفاضًا في درجات الحرارة. لكن النقاش حول كيفية تحسين الحماية من الحرارة في المستقبل قد بدأ للتو. من المهم أن نكون على دراية بهذه النقاشات، حيث يمكن أن تؤثر على حياتنا اليومية في ألمانيا. تابعونا لمزيد من المعلومات حول هذا الموضوع.",
+    "hook": "بعد موجة حر شديدة، النقاشات تتصاعد.",
+    "script": "سجلت البلاد درجات حرارة قياسية خلال الأسبوع الماضي. هذه الموجة أثارت قلقاً كبيراً. بدأت النقاشات السياسية حول كيفية تحسين وسائل الحماية من الحرارة. الهدف هو حماية المواطنين في المستقبل. النقاشات تشمل أفكار جديدة وتدابير فعالة. الجميع يتطلع إلى حلول مستدامة.",
     "duration": 55,
     "voice": "Hijazi",
     "music": "soft_news",
-    "style": "news"
+    "style": "news",
+    "subtitle_lines": [
+      "نقاش حول حماية أفضل من الحرارة بعد موجة الحر.",
+      "سجلت البلاد درجات حرارة قياسية.",
+      "الموجة أثارت قلقاً كبيراً.",
+      "بدأت النقاشات السياسية حول تحسين وسائل الحماية.",
+      "الهدف هو حماية المواطنين في المستقبل.",
+      "تشمل النقاشات أفكار جديدة وتدابير فعالة.",
+      "الجميع يتطلع إلى حلول مستدامة."
+    ],
+    "storyboard": [
+      {
+        "scene": 1,
+        "duration": 6,
+        "visual_description": "Aerial view of a city with a clear blue sky, showcasing urban buildings.",
+        "pexels_query": "city skyline blue sky",
+        "subtitle": "نقاش حول حماية أفضل من الحرارة",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_01.mp4"
+      },
+      {
+        "scene": 2,
+        "duration": 6,
+        "visual_description": "People walking in the streets, some using umbrellas or hats for sun protection.",
+        "pexels_query": "people walking in city summer",
+        "subtitle": "بعد أسبوع من تسجيل درجات حرارة قياسية",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_02.mp4"
+      },
+      {
+        "scene": 3,
+        "duration": 6,
+        "visual_description": "Close-up of a thermometer showing high temperatures.",
+        "pexels_query": "thermometer high temperature",
+        "subtitle": "درجات حرارة قياسية",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_03.mp4"
+      },
+      {
+        "scene": 4,
+        "duration": 6,
+        "visual_description": "A group of people discussing in a public park, with trees providing shade.",
+        "pexels_query": "people discussing in park",
+        "subtitle": "بدأت النقاشات السياسية",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_04.mp4"
+      },
+      {
+        "scene": 5,
+        "duration": 6,
+        "visual_description": "Footage of a city council meeting or public forum.",
+        "pexels_query": "city council meeting",
+        "subtitle": "حول تحسين وسائل الحماية",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_05.mp4"
+      },
+      {
+        "scene": 6,
+        "duration": 6,
+        "visual_description": "Children playing in a park, enjoying the shade under trees.",
+        "pexels_query": "children playing in park",
+        "subtitle": "من الحرارة في المستقبل",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_06.mp4"
+      },
+      {
+        "scene": 7,
+        "duration": 6,
+        "visual_description": "Public transport with people boarding buses or trams.",
+        "pexels_query": "public transport city",
+        "subtitle": "وسائل الحماية من الحرارة",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_07.mp4"
+      },
+      {
+        "scene": 8,
+        "duration": 6,
+        "visual_description": "A family enjoying a picnic under a shaded area.",
+        "pexels_query": "family picnic in park",
+        "subtitle": "تحسين وسائل الحماية",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_08.mp4"
+      },
+      {
+        "scene": 9,
+        "duration": 6,
+        "visual_description": "Footage of a weather forecast on a screen.",
+        "pexels_query": "weather forecast screen",
+        "subtitle": "نحو مستقبل أفضل",
+        "broll_file": "media\\broll\\videos\\20260629-002\\scene_09.mp4"
+      }
+    ]
   },
   "social": {
     "caption": "بعد أسبوع من تسجيل درجات حرارة قياسية، بدأت النقاشات السياسية حول تحسين وسائل الحماية من الحرارة في المستقبل.",
@@ -29,9 +112,11 @@
     ]
   },
   "production": {
-    "voice_ready": false,
+    "voice_ready": true,
     "video_ready": false,
     "thumbnail_ready": false,
-    "published": false
+    "published": false,
+    "audio_file": "media\\audio\\20260629-002.mp3",
+    "subtitle_file": "media\\subtitles\\20260629-002.srt"
   }
 }
