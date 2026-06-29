@@ -5,6 +5,7 @@ steps = [
     ("Collect news", "sources/rss_collector.py"),
     ("Score news", "ai/news_scorer.py"),
     ("Classify news", "ai/news_classifier.py"),
+    ("Write scripts", "ai/script_writer.py"),
 ]
 
 for name, script in steps:
