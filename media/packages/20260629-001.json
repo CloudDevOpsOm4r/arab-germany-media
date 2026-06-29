@@ -1,0 +1,36 @@
+{
+  "id": "20260629-001",
+  "status": "ready",
+  "priority": 60,
+  "category": "weather",
+  "source": {
+    "title": "Hitze-Liveblog: ++ Klimaexpertin: \"So eine Hitzewelle vor 50 Jahren nicht möglich\" ++",
+    "url": "https://www.tagesschau.de/newsticker/liveblog-hitze-sonntag-100.html",
+    "publisher": "tagesschau.de - Die Nachrichten der ARD",
+    "published": "Sun, 28 Jun 2026 21:51:47 +0200"
+  },
+  "video": {
+    "title": "تحذير من موجة حر غير مسبوقة في ألمانيا",
+    "hook": "تحذير من موجة حر غير مسبوقة في ألمانيا",
+    "script": "تعيش ألمانيا موجة حر غير مسبوقة، حيث تسجل درجات حرارة قياسية. وفقًا لخبيرة المناخ، فإن هذه الموجات لم تكن ممكنة قبل 50 عامًا. من المهم أن نكون حذرين ونتخذ الاحتياطات اللازمة لحماية أنفسنا وعائلاتنا من الحرارة الشديدة. تأكد من شرب الماء بكثرة وتجنب الخروج في أوقات الذروة. تابعونا لمزيد من المعلومات حول كيفية التعامل مع هذه الظروف.",
+    "duration": 55,
+    "voice": "Hijazi",
+    "music": "soft_news",
+    "style": "news"
+  },
+  "social": {
+    "caption": "تسجل ألمانيا درجات حرارة قياسية لم يسبق لها مثيل، حيث أكدت خبيرة المناخ أن مثل هذه الموجات لم تكن ممكنة قبل 50 عامًا.",
+    "hashtags": [
+      "#موجة_حر",
+      "#ألمانيا",
+      "#حماية_الصحة",
+      "#درجات_حرارة_قياسية"
+    ]
+  },
+  "production": {
+    "voice_ready": false,
+    "video_ready": false,
+    "thumbnail_ready": false,
+    "published": false
+  }
+}

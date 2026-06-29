@@ -1,0 +1,37 @@
+{
+  "id": "20260629-003",
+  "status": "ready",
+  "priority": 60,
+  "category": "weather",
+  "source": {
+    "title": "Grüne fordern Sofortprogramm für Klimaanlagen",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-hitze-klima-100.html",
+    "publisher": "tagesschau.de - Die Nachrichten der ARD",
+    "published": "Sun, 28 Jun 2026 11:42:31 +0200"
+  },
+  "video": {
+    "title": "دعوة عاجلة لتوفير أجهزة تكييف لمواجهة موجات الحرارة",
+    "hook": "دعوة عاجلة لتوفير أجهزة تكييف لمواجهة موجات الحرارة",
+    "script": "في ظل ارتفاع درجات الحرارة المتزايد، دعا حزب الخضر في ألمانيا إلى وضع خطة عمل عاجلة لمواجهة هذه الظاهرة. رئيسة الكتلة النيابية، دروج، حذرت من زيادة الأيام الحارة التي قد تشكل خطرًا على الحياة. من بين الاقتراحات توفير أجهزة تكييف في المرافق العامة لحماية المواطنين. تابعونا لمزيد من المعلومات حول كيفية تأثير هذه الخطط على حياتكم اليومية.",
+    "duration": 55,
+    "voice": "Hijazi",
+    "music": "soft_news",
+    "style": "news"
+  },
+  "social": {
+    "caption": "تدعو حزب الخضر في ألمانيا إلى خطة عمل لمواجهة ارتفاع درجات الحرارة، مع تحذيرات من زيادة الأيام الحارة الخطيرة. يشمل الاقتراح توفير أجهزة تكييف في المرافق العامة.",
+    "hashtags": [
+      "#ألمانيا",
+      "#حرارة",
+      "#تكييف",
+      "#حماية_المواطنين",
+      "#حزب_الخضر"
+    ]
+  },
+  "production": {
+    "voice_ready": false,
+    "video_ready": false,
+    "thumbnail_ready": false,
+    "published": false
+  }
+}
