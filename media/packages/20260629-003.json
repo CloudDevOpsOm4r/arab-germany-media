@@ -105,7 +105,110 @@
         "subtitle": "Together, we can face the heat.",
         "broll_file": "media\\broll\\videos\\20260629-003\\scene_10.mp4"
       }
-    ]
+    ],
+    "timeline": [
+      {
+        "scene": 1,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_01.mp4",
+        "start": 0.0,
+        "end": 6.0,
+        "duration": 6.0,
+        "subtitle": "Urgent call for action in Germany.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 2,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_02.mp4",
+        "start": 6.0,
+        "end": 12.0,
+        "duration": 6.0,
+        "subtitle": "Rising temperatures are a growing concern.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 3,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_03.mp4",
+        "start": 12.0,
+        "end": 18.0,
+        "duration": 6.0,
+        "subtitle": "Increasingly hot days are becoming dangerous.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 4,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_04.mp4",
+        "start": 18.0,
+        "end": 24.0,
+        "duration": 6.0,
+        "subtitle": "Public facilities need air conditioning.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 5,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_05.mp4",
+        "start": 24.0,
+        "end": 30.0,
+        "duration": 6.0,
+        "subtitle": "Proposal includes providing AC units.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 6,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_06.mp4",
+        "start": 30.0,
+        "end": 36.0,
+        "duration": 6.0,
+        "subtitle": "Ensuring comfort for everyone.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 7,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_07.mp4",
+        "start": 36.0,
+        "end": 42.0,
+        "duration": 6.0,
+        "subtitle": "Education must continue in comfortable conditions.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 8,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_08.mp4",
+        "start": 42.0,
+        "end": 48.0,
+        "duration": 6.0,
+        "subtitle": "Workplaces need to adapt to the heat.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 9,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_09.mp4",
+        "start": 48.0,
+        "end": 54.0,
+        "duration": 6.0,
+        "subtitle": "A call for action from the Green Party.",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 10,
+        "clip": "media\\broll\\videos\\20260629-003\\scene_10.mp4",
+        "start": 54.0,
+        "end": 60.0,
+        "duration": 6.0,
+        "subtitle": "Together, we can face the heat.",
+        "transition": "fade",
+        "zoom": "slow"
+      }
+    ],
+    "timeline_duration": 60.0
   },
   "social": {
     "caption": "تدعو حزب الخضر في ألمانيا إلى خطة عمل لمواجهة ارتفاع درجات الحرارة، مع تحذيرات من زيادة الأيام الحارة الخطيرة. يشمل الاقتراح توفير أجهزة تكييف في المرافق العامة.",

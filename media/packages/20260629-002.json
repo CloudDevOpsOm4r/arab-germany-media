@@ -99,7 +99,100 @@
         "subtitle": "نحو مستقبل أفضل",
         "broll_file": "media\\broll\\videos\\20260629-002\\scene_09.mp4"
       }
-    ]
+    ],
+    "timeline": [
+      {
+        "scene": 1,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_01.mp4",
+        "start": 0.0,
+        "end": 6.0,
+        "duration": 6.0,
+        "subtitle": "نقاش حول حماية أفضل من الحرارة",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 2,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_02.mp4",
+        "start": 6.0,
+        "end": 12.0,
+        "duration": 6.0,
+        "subtitle": "بعد أسبوع من تسجيل درجات حرارة قياسية",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 3,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_03.mp4",
+        "start": 12.0,
+        "end": 18.0,
+        "duration": 6.0,
+        "subtitle": "درجات حرارة قياسية",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 4,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_04.mp4",
+        "start": 18.0,
+        "end": 24.0,
+        "duration": 6.0,
+        "subtitle": "بدأت النقاشات السياسية",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 5,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_05.mp4",
+        "start": 24.0,
+        "end": 30.0,
+        "duration": 6.0,
+        "subtitle": "حول تحسين وسائل الحماية",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 6,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_06.mp4",
+        "start": 30.0,
+        "end": 36.0,
+        "duration": 6.0,
+        "subtitle": "من الحرارة في المستقبل",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 7,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_07.mp4",
+        "start": 36.0,
+        "end": 42.0,
+        "duration": 6.0,
+        "subtitle": "وسائل الحماية من الحرارة",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 8,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_08.mp4",
+        "start": 42.0,
+        "end": 48.0,
+        "duration": 6.0,
+        "subtitle": "تحسين وسائل الحماية",
+        "transition": "fade",
+        "zoom": "slow"
+      },
+      {
+        "scene": 9,
+        "clip": "media\\broll\\videos\\20260629-002\\scene_09.mp4",
+        "start": 48.0,
+        "end": 54.0,
+        "duration": 6.0,
+        "subtitle": "نحو مستقبل أفضل",
+        "transition": "fade",
+        "zoom": "slow"
+      }
+    ],
+    "timeline_duration": 54.0
   },
   "social": {
     "caption": "بعد أسبوع من تسجيل درجات حرارة قياسية، بدأت النقاشات السياسية حول تحسين وسائل الحماية من الحرارة في المستقبل.",
